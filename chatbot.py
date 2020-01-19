@@ -23,7 +23,7 @@ pairs = [
     ],
     [
         r"hi|hey|hello",
-        ["Hello", "Hey there", ]
+        ["Hello", "Hey there", "Hey yourself", ]
     ],
     [
         r"(.*) age?",
