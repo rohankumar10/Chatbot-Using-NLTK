@@ -58,7 +58,7 @@ pairs = [
     ],
     [
         r"how (.*) health(.*)",
-        ["I'm a computer program, so I'm always healthy ", ]
+        ["I'm a computer program, so I'm always healthy,But can catch a virus like you guys!! ", ]
     ],
     [
         r"(.*) (sports|game) ?",
