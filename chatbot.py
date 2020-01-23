@@ -50,7 +50,7 @@ pairs = [
     ],
     [
         r"i work in (.*)?",
-        ["%1 is an Amazing company, I have heard about it.", ]
+        ["%1 is an Amazing company, I have heard a lot about it.", ]
     ],
     [
         r"(.*)raining in (.*)",
@@ -66,7 +66,7 @@ pairs = [
     ],
     [
         r"who (.*) sportsperson ?",
-        ["Mesut Ozil", "MS Dhoni",]
+        ["Mesut Ozil", "MS Dhoni", "Rafael Nadal",]
     ],
     [
         r"who (.*) (moviestar|actor)?",
